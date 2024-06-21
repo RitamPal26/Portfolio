@@ -3,7 +3,7 @@ import calculator from "../assets/portfolio/calculator.jpg";
 import logistics from "../assets/portfolio/logistics.jpg";
 import memeGenerator from "../assets/portfolio/memeGenerator.jpg";
 import weatherforecast from "../assets/portfolio/weatherforecast.jpg";
-import CookShook from "../assets/portfolio/CookShook.jpg";
+import CookShook from "../assets/portfolio/CookShook.png";
 
 const Portfolio = () => {
     const portfolios = [
