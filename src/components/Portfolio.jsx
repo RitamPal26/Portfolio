@@ -3,6 +3,7 @@ import calculator from "../assets/portfolio/calculator.jpg";
 import logistics from "../assets/portfolio/logistics.jpg";
 import memeGenerator from "../assets/portfolio/memeGenerator.jpg";
 import weatherforecast from "../assets/portfolio/weatherforecast.jpg";
+import CookShook from "../assets/portfolio/CookShook.jpg";
 
 const Portfolio = () => {
     const portfolios = [
@@ -22,7 +23,10 @@ const Portfolio = () => {
             id: 4,
             src: weatherforecast,
         },
-
+        {
+            id: 5,
+            src: CookShook,
+        },
     ];
 
     return (
@@ -47,9 +51,7 @@ const Portfolio = () => {
                                 className="rounded-md duration-200 hover:scale-105"
                             />
                             <div className="flex items-center justify-center">
-                                <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                                    Demo
-                                </button>
+                                
                                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
                                     Code
                                 </button>

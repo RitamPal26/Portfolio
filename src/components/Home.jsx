@@ -15,7 +15,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have built various appliations using Reat and Angular.
+            I have built various appliations using React and Angular.
           </p>
 
           <div>
