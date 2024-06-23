@@ -4,6 +4,7 @@ import logistics from "../assets/portfolio/logistics.jpg";
 import memeGenerator from "../assets/portfolio/memeGenerator.jpg";
 import weatherforecast from "../assets/portfolio/weatherforecast.jpg";
 import CookShook from "../assets/portfolio/CookShook.png";
+import ChessGame from "../assets/portfolio/ChessGame.png";
 
 const Portfolio = () => {
     const portfolios = [
@@ -26,6 +27,10 @@ const Portfolio = () => {
         {
             id: 5,
             src: CookShook,
+        },
+        {
+            id: 6,
+            src: ChessGame,
         },
     ];
 
