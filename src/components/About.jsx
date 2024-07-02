@@ -14,7 +14,7 @@ const About = () => {
                 </div>
 
                 <p className="text-xl mt-20">
-                    Hello!! My name is Ritam Pal and I am 20 years old, currently pursuing B.Tech in Computer Science with specialization in Software Engineering from SRM IST, KTR. I love to Code and keep working towards my dream of becoming a Software Engineer. The following slides tell about me more.
+                    Hello!! My name is Ritam Pal and I am 20 years old, currently pursuing B.Tech in Computer Science with specialization in Software Engineering from SRM IST, KTR. I love to Code and keep working towards my dream of becoming a Software Engineer. 
 
                 </p>
 
