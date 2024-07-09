@@ -12,6 +12,7 @@ const Portfolio = () => {
         {
             id: 1,
             src: fitness,
+            title: "Fitness Club",
         },
         {
             id: 2,
@@ -20,18 +21,22 @@ const Portfolio = () => {
         {
             id: 3,
             src: memeGenerator,
+            title: "Meme Generator",
         },
         {
             id: 4,
             src: weatherforecast,
+            title: "Weather Forecast App",
         },
         {
             id: 5,
             src: CookShook,
+            title: "CookShook",
         },
         {
             id: 6,
             src: ChessGame,
+            title: "Chess Game",
         },
     ];
 
