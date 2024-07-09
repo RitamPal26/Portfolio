@@ -1,20 +1,21 @@
 import React from "react";
-import calculator from "../assets/portfolio/calculator.jpg";
-import logistics from "../assets/portfolio/logistics.jpg";
+
 import memeGenerator from "../assets/portfolio/memeGenerator.jpg";
 import weatherforecast from "../assets/portfolio/weatherforecast.jpg";
 import CookShook from "../assets/portfolio/CookShook.png";
 import ChessGame from "../assets/portfolio/Chess Game.png";
+import fitness from "../assets/portfolio/Fitness.png";
+import Chat from "../assets/portfolio/ChatApp.png"
 
 const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            src: calculator,
+            src: fitness,
         },
         {
             id: 2,
-            src: logistics,
+            src: Chat,
         },
         {
             id: 3,
@@ -58,7 +59,7 @@ const Portfolio = () => {
                             <div className="flex items-center justify-center">
                                 
                                 <button className="w-1/2 px-6 py-3 m-4 duration-200 hover:scale-105">
-                                    Code
+                                    
                                 </button>
                             </div>
                         </div>

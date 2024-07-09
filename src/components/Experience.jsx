@@ -8,6 +8,7 @@ import nextjs from "../assets/nextjs.png";
 import mySql from "../assets/mySql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import mongo from "../assets/mongo.png";
 
 const Experience = () => {
   const techs = [
@@ -58,6 +59,12 @@ const Experience = () => {
       src: github,
       title: "GitHub",
       style: "shadow-gray-400",
+    },
+    {
+      id: 9,
+      src: mongo,
+      title: "MongoDB",
+      style: "shadow-green-400",
     },
   ];
 
